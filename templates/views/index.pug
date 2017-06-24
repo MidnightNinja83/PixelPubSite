@@ -1,0 +1,23 @@
+extends ../layouts/default
+
+block content
+	div.ppb-1.parallax.short
+	table#gameIconsTbl.center
+		tr
+			td
+				img(src='/images/ppl-d2.png')#game1Icon
+			td
+				img(src='/images/ppl-wow.png')#game2Icon
+			td
+				img(src='/images/ppl-mtg.png')#game3Icon
+	div#picGame1.game-img1.parallax.long
+	div#descGame1.between-text-block Join our thriving Destiny 2 Community as we take on the darkness, help other guardians in need and get some loot!
+	div#picGame2.game-img2.parallax.long
+	div#descGame2.between-text-block Join our WoW partner community "The Bad Mama Jamas" to defeat the legion and take back Azeroth!
+	div#picGame3.game-img3.parallax.long
+	div#descGame3.between-text-block Join our Magic the Gathering Community! Popper, cube, modern, standard, commander!
+	
+	script(src='/js/jquery/jquery-1.11.3.min.js')
+	script(src='/js/jquery-ui/jquery-ui.min.js')
+	script(src='/js/browserify/dist/bundle.js')
+	script(src='/js/custom-js/homepage.js')
