@@ -2,20 +2,26 @@ extends ../layouts/default
 
 block content
 	div.ppb-1.parallax.short
-	table#gameIconsTbl.center
+	table#gameIconsTbl.game-icons
 		tr
 			td
-				img(src='/images/ppl-d2.png')#game1Icon
+				img(src='/images/d2-logo-press-1.png')#game1Icon
 			td
-				img(src='/images/ppl-wow.png')#game2Icon
+				img(src='/images/wow-legion-logo-press-1.png')#game2Icon
 			td
-				img(src='/images/ppl-mtg.png')#game3Icon
+				img(src='/images/mtg-logo-press-1.png')#game3Icon
+			td
+				img(src='/images/discord-logo-press-1.png')#discordIcon
+				
 	div#picGame1.game-img1.parallax.long
-	div#descGame1.between-text-block Join our thriving Destiny 2 Community as we take on the darkness, help other guardians in need and get some loot!
+	div#descGame1.between-text-block Join our thriving Destiny 2 community as we take on the darkness, help other guardians in need and get some loot!
 	div#picGame2.game-img2.parallax.long
 	div#descGame2.between-text-block Join our WoW partner community "The Bad Mama Jamas" to defeat the legion and take back Azeroth!
 	div#picGame3.game-img3.parallax.long
 	div#descGame3.between-text-block Join our Magic the Gathering Community! Popper, cube, modern, standard, commander!
+	
+	div#picDiscord.discord.parallax.long
+	div#descDiscord.between-text-block Join our Discord! Voice chat channels, text chat channels, a friendly gaming community and Discord has a great phone application to keep in touch wherever you go!
 	
 	script(src='/js/jquery/jquery-1.11.3.min.js')
 	script(src='/js/jquery-ui/jquery-ui.min.js')

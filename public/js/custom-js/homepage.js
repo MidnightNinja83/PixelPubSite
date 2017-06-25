@@ -1,4 +1,4 @@
-$(document).on('click', '#game1Icon', function(event){
+$(document).on('click', '#game1Icon', event => {
     event.preventDefault();
 
     $('html, body').animate({
@@ -6,7 +6,7 @@ $(document).on('click', '#game1Icon', function(event){
     }, 500);
 });
 
-$(document).on('click', '#game2Icon', function(event){
+$(document).on('click', '#game2Icon', event => {
     event.preventDefault();
 
     $('html, body').animate({
@@ -14,10 +14,18 @@ $(document).on('click', '#game2Icon', function(event){
     }, 500);
 });
 
-$(document).on('click', '#game3Icon', function(event){
+$(document).on('click', '#game3Icon', event => {
     event.preventDefault();
 
     $('html, body').animate({
         scrollTop: $('#picGame3').offset().top
+    }, 500);
+});
+
+$(document).on('click', '#discordIcon', event => {
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $('#picDiscord').offset().top
     }, 500);
 });
