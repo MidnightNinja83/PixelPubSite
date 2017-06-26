@@ -2,6 +2,17 @@
 	margin-top: 30px;
 }
 
+img {
+    max-width: 100%; 
+	display:block; 
+	height: auto;
+}
+
+.navbar-icon {
+	height: 50px;
+	margin-right: 15px;
+}
+
 .long {
 	height: 700px;
 }
@@ -16,17 +27,6 @@
     margin-right: auto;
 }
 
-.large-icon {
-	width: 100px;
-	height: 100px;
-}
-
-.small-icon {
-	margin-right: 15px;
-	width: 50px;
-	height: 50px;
-}
-
 .parallax {
 	background-attachment: fixed;
     background-position: center;
@@ -36,11 +36,11 @@
 
 .game-icons {
 	height: 350px;
-	margin-left: 200px;
+	margin-left: 2%;
 }
 
 .between-text-block {
-	font-size: 150%;
+	font-size: 100%;
 	color: #777;
 	background-color: white;
 	text-align: center;
@@ -48,26 +48,43 @@
 	text-align: justify
 }
 
+/* 4k Screens */
+@media only screen and (width: 2560px), screen and (height: 1100px) {
+    .between-text-block {
+		font-size: 175%;
+	}
+	
+	.game-icons {
+		height: 350px;
+		margin-left: 20%;
+	}
+}
+
 .ppb-1 {
 	background-image: url('/images/ppb-1.jpg');
+	background-size: 100%;
 }
 
 /* game-img1, 2, 3 should be used in priority of viewership per community */
 
 .game-img1 {
 	background-image: url('/images/d2-press-1.jpg');
+	background-size: 100%;
 }
 
 .game-img2 {
 	background-image: url('/images/wow-legion-press-1.jpg');
+	background-size: 100%;
 }
 
 .game-img3 {
 	background-image: url('/images/mtg-press-1.jpg');
+	background-size: 100%;
 }
 
 .discord {
 	background-image: url('/images/discord-banner-press-1.png');
+	background-size: 100%;
 }
 
 #footer {
