@@ -10,12 +10,12 @@ var keystone = require('keystone');
 // and documentation.
 
 keystone.init({
-	'name': 'PixelPubSite',
-	'brand': 'PixelPubSite',
+	'name': 'PixelPub',
+	'brand': 'PixelPub',
 
 	'less': 'public',
 	'static': 'public',
-	'favicon': 'public/favicon.ico',
+	'favicon': 'public/favicon-16x16.png',
 	'views': 'templates/views',
 	'view engine': 'pug',
 
