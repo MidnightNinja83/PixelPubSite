@@ -22,6 +22,14 @@ $(document).on('click', '#game3Icon', event => {
     }, 500);
 });
 
+$(document).on('click', '#twitchIcon', event => {
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $('#picTwitch').offset().top + 50
+    }, 500);
+});
+
 $(document).on('click', '#discordIcon', event => {
     event.preventDefault();
 
