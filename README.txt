@@ -16,3 +16,14 @@ in the public\js\browserify directory, run the following:
 watchify src/main.js -o dist/bundle.js -v
 
 
+Start server:
+
+navigate to PixelPubSite folder
+
+forever start keystone.js
+
+Since you are most likely developing on a windows platform:
+
+https://www.npmjs.com/package/npm-windows-upgrade
+
+It is good to read up on this windows upgrade tool
