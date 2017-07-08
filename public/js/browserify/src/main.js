@@ -1,5 +1,10 @@
-require('arrive');
+require('waypoints/lib/jquery.waypoints.min');
 
-$(document).arrive('td', () => {
-	$('#gameIconsTbl').effect('bounce', { times: 3 }, 3000);
+var gameIconsTable = $('#ppIntroTbl').waypoint({
+	handler: function(direction) {
+		if (direction === 'down') {
+			$('#gameIconsTbl').show('drop');
+		}
+	},
+	offset: 200
 });

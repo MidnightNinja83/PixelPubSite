@@ -12,5 +12,7 @@ http://keystonejs.com/getting-started/
 
 5) The project uses browserify good documentation on how to setup up browserify modules: https://spapas.github.io/2015/05/27/using-browserify-watchify/
 
+in the public\js\browserify directory, run the following:
+watchify src/main.js -o dist/bundle.js -v
 
 
