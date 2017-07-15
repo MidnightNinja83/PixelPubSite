@@ -6,5 +6,5 @@ var gameIconsTable = $('#ppIntroTbl').waypoint({
 			$('#gameIconsTbl').show('drop');
 		}
 	},
-	offset: 200
+	offset: 250
 });

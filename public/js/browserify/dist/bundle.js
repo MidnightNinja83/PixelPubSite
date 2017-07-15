@@ -15,6 +15,6 @@ var gameIconsTable = $('#ppIntroTbl').waypoint({
 			$('#gameIconsTbl').show('drop');
 		}
 	},
-	offset: 200
+	offset: 250
 });
 },{"waypoints/lib/jquery.waypoints.min":1}]},{},[2]);
