@@ -3,19 +3,19 @@ extends ../layouts/default
 block content
 
 	div#ppb.ppb-1.parallax.short
-	
-	table#ppIntroTbl.game-icons
-		tr
-			td
-				img(src='/images/ppl-1.png')
-			td
-				p#ppIntroDesc.between-text-block.left Welcome to PixelPub! <br />
+			
+	div#ppIntroTbl.divTable
+		div#ppIntroTblRow1.divTableRow
+			div#ppIntroTblRow1CellLeft.divTableCell
+				img(src='/images/ppl-1.png')#ppIntroImg
+			div#ppIntroTblRow1CellRight.divTableCell
+				p#ppIntroDesc.profile-text-block.left Welcome to PixelPub! <br />
 					| We are a gaming community, one that strives to be fun, <br />
 					| rewarding, and brings gamers together to do what they love most, gaming. <br />
 					| Be a part of our community by joining our #[a(href="https://discord.gg/uw3PMqV") Discord Server]. <br /> <br />
 					| The following are some PixelPub community highlights!
 	
-	table#gameIconsTbl.game-icons
+	table#gameIconsTbl.game-icons.display-none
 		tr
 			td
 				img(src='/images/d2-logo-press-1.png')#game1Icon
@@ -55,7 +55,7 @@ block content
 		| Join our #[a(href="https://discord.gg/uw3PMqV") Discord Server]! We have voice chat channels, text chat channels and promote a friendly gaming community. <br />
 		| Discord has great iOS & Android applications to keep in touch wherever you go!
 	
-	script(src='/js/jquery/jquery-1.11.3.min.js')
+	script(src='/js/jquery/jquery-3.2.1.min.js')
 	script(src='/js/jquery-ui/jquery-ui.min.js')
 	script(src='/js/browserify/dist/bundle.js')
 	script(src='/js/custom-js/homepage.js')
