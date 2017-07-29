@@ -79,6 +79,15 @@ h1 {
     padding-bottom: 20px;
 }
 
+div#aboutBlock p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 150%;
+	color: #777;
+	background-color: white;
+	text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+	opacity: 0.7;
+}
+
 .between-text-block {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 150%;
@@ -131,16 +140,61 @@ h1 {
 	}
 	
 	img#ppIntroImg {
-		margin-left: 300px;
+		margin-left: 600px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 200%;
+	}
+	
+	#ppIntroDesc.profile-text-block {
+		margin-left: 300px !important;
 	}
 }
-@media only screen and (width: 1440), screen and (height: 686px) {
+
+@media only screen and (max-width: 1920px), screen and (height: 1080px) {
     .between-text-block {
 		font-size: 150%;
 	}
 	
 	.profile-text-block {
 		font-size: 150%;
+	}
+	
+	img#ppIntroImg {
+		max-height: 250px;
+		margin-left: 150px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 150%;
+	}
+	
+	#ppIntroDesc.profile-text-block {
+		margin-left: -50px !important;
+	}
+}
+
+@media only screen and (max-width: 1441px), screen and (height: 686px) {
+    .between-text-block {
+		font-size: 150%;
+	}
+	
+	.profile-text-block {
+		font-size: 150%;
+	}
+	
+	img#ppIntroImg {
+		max-height: 250px;
+		margin-left: 150px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 150%;
+	}
+	
+	#ppIntroDesc.profile-text-block {
+		margin-left: -50px !important;
 	}
 }
 
@@ -156,6 +210,10 @@ h1 {
 	img#ppIntroImg {
 		max-height: 150px;
 		margin-left: 125px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 120%;
 	}
 	
 	#ppIntroDesc.profile-text-block {
@@ -175,6 +233,10 @@ h1 {
 	img#ppIntroImg {
 		max-height: 100px;
 		margin-left: 100px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 100%;
 	}
 	
 	#ppIntroDesc.profile-text-block {
@@ -208,6 +270,10 @@ h1 {
 		display: none;
 	}
 	
+	div#aboutBlock p {
+		font-size: 125% !important;
+	}
+	
 	.divTableCell {
 		display: inline !important;
 	}
@@ -226,6 +292,10 @@ h1 {
 	.profile-text-block {
 		font-size: 90% !important;
 		height: 180px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 90% !important;
 	}
 	
 	#ppIntroDesc.profile-text-block {
@@ -250,6 +320,10 @@ h1 {
 	.profile-text-block {
 		font-size: 100% !important;
 		height: 180px;
+	}
+	
+	div#aboutBlock p {
+		font-size: 100% !important;
 	}
 	
 	.divTableCell {
