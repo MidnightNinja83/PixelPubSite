@@ -24,7 +24,7 @@ var secondProfile = $('#ppb').waypoint({
 			$('#ppProfileTblRow2').show('slide');
 		}
 	},
-	offset: -400
+	offset: -300
 });
 
 var thirdProfile = $('#ppb').waypoint({
@@ -33,7 +33,7 @@ var thirdProfile = $('#ppb').waypoint({
 			$('#ppProfileTblRow3').show('slide');
 		}
 	},
-	offset: -900
+	offset: -700
 });
 
 var fourthProfile = $('#ppb').waypoint({
@@ -42,5 +42,5 @@ var fourthProfile = $('#ppb').waypoint({
 			$('#ppProfileTblRow4').show('slide');
 		}
 	},
-	offset: -1400
+	offset: -1100
 });
