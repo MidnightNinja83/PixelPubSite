@@ -44,3 +44,12 @@ var fourthProfile = $('#ppb').waypoint({
 	},
 	offset: -1100
 });
+
+var fifthProfile = $('#ppb').waypoint({
+	handler: function(direction) {
+		if (direction === 'down') {
+			$('#ppProfileTblRow5').show('slide');
+		}
+	},
+	offset: -1400
+});
