@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>We Talk Nerd Podcast</title>
+  <link>http://www.pixelpubgaming.com</link>
+  <description>Tune in as Brandon, Jared and Andrew talk about current nerd culture. Every week we dive into subjects like games, movies, tv and more!</description>
+  <image>
+	<url>http://www.pixelpubgaming.com/images/wtnlogo.png</url>
+	<title>We Talk Nerd Podcast</title>
+	<link>http://www.pixelpubgaming.com</link>
+  </image>
+  <language>en-us</language>
+  <item>
+    <title>We Talk Nerd Podcast Episode 1</title>
+    <enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/wtnep1.mp3" length="79103012" type="audio/mpeg" />
+    <description>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</description>
+  </item>
+</channel>
+
+</rss>
