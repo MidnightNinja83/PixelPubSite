@@ -16,7 +16,9 @@
 			<itunes:name>PixelPub</itunes:name>
 			<itunes:email>PixelPubTv@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:category text="Video Games"></itunes:category>
+		<itunes:category text="Games & Hobbies">
+			<itunes:category text="Video Games">
+		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:keywords>Gaming, Movies, TV, News, Nerd, Culture</itunes:keywords>
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo300x300.png" />
