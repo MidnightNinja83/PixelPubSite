@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
-<channel>
-  <title>We Talk Nerd Podcast</title>
-  <link>http://www.pixelpubgaming.com</link>
-  <description>Tune in as Brandon, Jared and Andrew talk about current nerd culture. Every week we dive into subjects like games, movies, tv and more!</description>
-  <category>Games</category>
-  <language>en-us</language>
-  <image>
-	<url>http://www.pixelpubgaming.com/images/wtnlogo300x300.png</url>
-	<title>We Talk Nerd Podcast</title>
-	<link>http://www.pixelpubgaming.com</link>
-  </image>
-  <item>
-    <title>We Talk Nerd Podcast Episode 1</title>
-    <enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/wtnep1.mp3" length="79103012" type="audio/mpeg" />
-    <description>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</description>
-	<itunes:summary>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</itunes:summary>
-	<itunes:subtitle>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</itunes:subtitle>
-	<guid>http://www.pixelpubgaming.com/rss/wtnep1</guid>
-  </item>
-  <itunes:owner>
-	<itunes:name>PixelPub</itunes:name>
-	<itunes:email>PixelPubTv@gmail.com</itunes:email>
-  </itunes:owner>
-  <itunes:category text="Games"></itunes:category>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:keywords>Gaming, Movies, TV, News, Nerd, Culture</itunes:keywords>
-  <itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo300x300.png" />
-  <atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
-</channel>
+	<channel>
+		<title>We Talk Nerd Podcast</title>
+		<link>http://www.pixelpubgaming.com</link>
+		<description>Tune in as Brandon, Jared and Andrew talk about current nerd culture. Every week we dive into subjects like games, movies, tv and more!</description>
+		<category>Games</category>
+		<language>en-us</language>
+		<image>
+			<url>http://www.pixelpubgaming.com/images/wtnlogo300x300.png</url>
+			<title>We Talk Nerd Podcast</title>
+			<link>http://www.pixelpubgaming.com</link>
+		</image>
+		<itunes:owner>
+			<itunes:name>PixelPub</itunes:name>
+			<itunes:email>PixelPubTv@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:category text="Video Games"></itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:keywords>Gaming, Movies, TV, News, Nerd, Culture</itunes:keywords>
+		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo300x300.png" />
+		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We Talk Nerd Podcast Episode 1</title>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/wtnep1.mp3" length="79103012" type="audio/mpeg" />
+			<description>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</description>
+			<itunes:summary>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</itunes:summary>
+			<itunes:subtitle>Episode 1 of the We Talk Nerd Podcast is out! Tune into Brandon, Jared and Andrew as they talk about current nerd culture. Every week we dive into subjects like games, movies, tv and news!</itunes:subtitle>
+			<guid>http://www.pixelpubgaming.com/rss/wtnep1</guid>
+		</item>
+	</channel>
 
 </rss>
