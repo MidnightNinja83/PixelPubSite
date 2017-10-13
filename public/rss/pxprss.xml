@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
 <channel>
   <title>We Talk Nerd Podcast</title>
@@ -7,8 +7,6 @@
   <description>Tune in as Brandon, Jared and Andrew talk about current nerd culture. Every week we dive into subjects like games, movies, tv and more!</description>
   <category>Games</category>
   <language>en-us</language>
-  <webMaster>PixelPubTv@gmail PixelPub</webMaster>
-  <managingEditor>PixelPubTv@email.com PixelPub</managingEditor>
   <image>
 	<url>http://www.pixelpubgaming.com/images/wtnlogo300x300.png</url>
 	<title>We Talk Nerd Podcast</title>
@@ -25,7 +23,7 @@
 	<itunes:name>PixelPub</itunes:name>
 	<itunes:email>PixelPubTv@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:category text="Arts & Entertainment">
+  <itunes:category text="Games & Hobbies">
 	<itunes:category text="Games" />
   </itunes:category>
   <itunes:explicit>no</itunes:explicit>
