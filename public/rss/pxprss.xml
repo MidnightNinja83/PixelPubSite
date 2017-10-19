@@ -22,6 +22,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast10</guid>
+			<title>Destiny 2 Giveaway</title>
+			<pubDate>Thu, 19 Oct 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep10-destiny2-giveaway.mp3</link>
+			<itunes:duration>01:13:42</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we are joined by our guest Rob. He talks about some board games and the Tick. We also give away a free copy of Destiny 2 for PC!</itunes:summary>
+			<itunes:subtitle>This week we are joined by our guest Rob. He talks about some board games and the Tick. We also give away a free copy of Destiny 2 for PC!</itunes:subtitle>
+			<description>This week we are joined by our guest Rob. He talks about some board games and the Tick. We also give away a free copy of Destiny 2 for PC!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep10-destiny2-giveaway.mp3" length="68905324" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast9</guid>
 			<title>Shadow of Podcast</title>
 			<pubDate>Thu, 12 Oct 2017 21:50:53 +0000</pubDate>
