@@ -2864,6 +2864,12 @@ var wtnPlaylist = new Howl({
   src: ['../media/wtnpodcast/ep10-destiny2-giveaway.mp3']
 });
 
+wtnPlaylist.on('load', () => {
+	$('#switchLbl').prop('title', 'Play/Pause Latest Episode');
+	$('#classSlider').css('background-color', '#0f0');
+	$('#playSlider')[0].disabled = false;
+});
+
 function togglePlay() {
 	var $elem = $('#player').children(':first');
 	$elem.stop()
