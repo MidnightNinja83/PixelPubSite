@@ -2861,7 +2861,8 @@ require('waypoints/lib/jquery.waypoints.min');
 require('howler/dist/howler');
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep10-destiny2-giveaway.mp3']
+  src: ['../media/wtnpodcast/ep10-destiny2-giveaway.mp3'],
+  onloaderror: alertErr
 });
 
 wtnPlaylist.on('load', () => {
@@ -2869,6 +2870,11 @@ wtnPlaylist.on('load', () => {
 	$('#classSlider').css('background-color', '#0f0');
 	$('#playSlider')[0].disabled = false;
 });
+
+function alertErr(id, err) {
+	window.alert(err);
+	console.log(`media failed to load - howler onloaderror: ${err}`);
+}
 
 function togglePlay() {
 	var $elem = $('#player').children(':first');
