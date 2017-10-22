@@ -2862,7 +2862,9 @@ require('howler/dist/howler');
 
 var wtnPlaylist = new Howl({
   src: ['../media/wtnpodcast/ep10-destiny2-giveaway.mp3'],
-  onloaderror: alertErr
+  html5: true,
+  buffer: true,
+  onloaderror: logErr
 });
 
 wtnPlaylist.on('load', () => {
@@ -2871,8 +2873,8 @@ wtnPlaylist.on('load', () => {
 	$('#playSlider')[0].disabled = false;
 });
 
-function alertErr(id, err) {
-	window.alert(err);
+function logErr(id, err) {
+	//window.alert(err);
 	console.log(`media failed to load - howler onloaderror: ${err}`);
 }
 
