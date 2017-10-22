@@ -43,13 +43,27 @@ block content
 		| PUBG is a battle royale arena shooter. 100 in 1 survives. <br />
 		| The PixelPub community has players diving into this game for it's high adrenaline action and fun experiences. <br />
 		| Join in the fun! Team up with our community and get that chicken dinner!
-	div#picGame3.game-img3.parallax.long 
-	a(href="http://pca.st/Udap")
-		h1 We Talk Nerd Podcast
-	p#descGame3.between-text-block 
-		| Tune in as Brandon, Jared and Andrew talk about current nerd culture. <br />
-		| Every week we dive into subjects like games, movies, tv and more! <br />
-		| You can find us on #[a(href="http://pca.st/Udap") Pocket Casts], #[a(href="https://itunes.apple.com/us/podcast/we-talk-nerd/id1271123859?mt=2") iTunes], #[a(href="https://soundcloud.com/brandon-janow") SoundCloud] and #[a(href="https://www.youtube.com/playlist?list=PLJr6VM66XZJ6W8LqWQIdrhlVNaEl4wHVL") YouTube]!
+	div#picGame3.game-img3.parallax.long
+	div.divTable
+		div.divTableRow
+			div.divTableCell
+				a(href="http://pca.st/Udap")
+					h1 We Talk Nerd Podcast
+		div.divTableRow
+			div.divTableCell
+				p#descGame3.between-text-block
+					| Tune in as Brandon, Jared and Andrew talk about current nerd culture. <br />
+					| Every week we dive into subjects like games, movies, tv and more! <br />
+					| You can find us on #[a(href="http://pca.st/Udap") Pocket Casts], #[a(href="https://itunes.apple.com/us/podcast/we-talk-nerd/id1271123859?mt=2") iTunes], #[a(href="https://soundcloud.com/brandon-janow") SoundCloud] and #[a(href="https://www.youtube.com/playlist?list=PLJr6VM66XZJ6W8LqWQIdrhlVNaEl4wHVL") YouTube]!
+		div.divTableRow
+			div#mediaCell.divTableCell
+				label(title='Play/Pause Latest Episode').switch
+					input(id='playSlider' type='checkbox')
+					span.slider.round
+				div(id='player')
+					img(id='play' src='/images/play.png' width='100' height='100' style='display:none;')
+					img(id='pause' src='/images/pause.png' width='100' height='100' style='display:none;')
+					
 	div#picTwitch.twitch.parallax.long
 	a(href="https://www.twitch.tv/pixelpub")
 		h1 PIXELPUB ON TWITCH
