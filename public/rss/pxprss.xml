@@ -22,6 +22,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast12</guid>
+			<title>The Calm Before The Blizzcon</title>
+			<pubDate>Thu, 5 Nov 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep12-the-calm-before-the-blizzcon.mp3</link>
+			<itunes:duration>00:52:53</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Another 2 man episode talking about the newest Mario, Destiny 2 raid, and a prelude to blizzcon.</itunes:summary>
+			<itunes:subtitle>Another 2 man episode talking about the newest Mario, Destiny 2 raid, and a prelude to blizzcon.</itunes:subtitle>
+			<description>Another 2 man episode talking about the newest Mario, Destiny 2 raid, and a prelude to blizzcon.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep12-the-calm-before-the-blizzcon.mp3" length="54980117" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast11</guid>
 			<title>Destiny 2 PC Hype</title>
 			<pubDate>Thu, 26 Oct 2017 12:00:00 +0000</pubDate>
