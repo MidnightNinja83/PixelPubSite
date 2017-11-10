@@ -22,6 +22,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast13</guid>
+			<title>Eye of the Blizzard</title>
+			<pubDate>Thu, 9 Nov 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep13-eye-of-the-blizzard.mp3</link>
+			<itunes:duration>01:07:55</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>We talk Blizzcon and a quick review of the new Assassin's Creed.</itunes:summary>
+			<itunes:subtitle>We talk Blizzcon and a quick review of the new Assassin's Creed.</itunes:subtitle>
+			<description>We talk Blizzcon and a quick review of the new Assassin's Creed.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep13-eye-of-the-blizzard.mp3" length="62204158" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast12</guid>
 			<title>The Calm Before The Blizzcon</title>
 			<pubDate>Thu, 5 Nov 2017 12:00:00 +0000</pubDate>
