@@ -2,7 +2,7 @@ require('waypoints/lib/jquery.waypoints.min');
 require('howler/dist/howler');
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep13-eye-of-the-blizzard.mp3'],
+  src: ['../media/wtnpodcast/ep14-the-tragedy-of-ea-the-greedy.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr

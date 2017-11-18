@@ -22,6 +22,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast14</guid>
+			<title>Eye of the Blizzard</title>
+			<pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep14-the-tragedy-of-ea-the-greedy.mp3</link>
+			<itunes:duration>01:04:51</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we talk about Battlefront 2... sadly.</itunes:summary>
+			<itunes:subtitle>This week we talk about Battlefront 2... sadly.</itunes:subtitle>
+			<description>This week we talk about Battlefront 2... sadly.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep14-the-tragedy-of-ea-the-greedy.mp3" length="61370225" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast13</guid>
 			<title>Eye of the Blizzard</title>
 			<pubDate>Thu, 9 Nov 2017 12:00:00 +0000</pubDate>
