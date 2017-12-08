@@ -17,10 +17,25 @@
 			<itunes:email>PixelPubTv@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Games &amp; Hobbies"/>
+		<itunes:author>We Talk Nerd</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:keywords>Gaming, Movies, TV, News, Nerd, Culture</itunes:keywords>
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<guid isPermaLink="false">wtnpodcast16</guid>
+			<title>Top 5 Games of The Year</title>
+			<pubDate>Thu, 7 Dec 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep16-top-5-games-of-the-year.mp3</link>
+			<itunes:duration>00:47:52</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>What were the best games of 2017? We also talk about the new Civ 6 and Destiny 2 DLC!</itunes:summary>
+			<itunes:subtitle>What were the best games of 2017? We also talk about the new Civ 6 and Destiny 2 DLC!</itunes:subtitle>
+			<description>What were the best games of 2017? We also talk about the new Civ 6 and Destiny 2 DLC!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep16-top-5-games-of-the-year.mp3" length="47841965" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast15</guid>
 			<title>Two Tokens and a Podcast</title>
