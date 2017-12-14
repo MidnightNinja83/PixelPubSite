@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast17</guid>
+			<title>Twas The Night Before Star Wars</title>
+			<pubDate>Thu, 14 Dec 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep17-twas-the-night-before-star-wars.mp3</link>
+			<itunes:duration>01:16:30</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Star Wars is almost here! We talk about the newest Destiny update and some new movie news!</itunes:summary>
+			<itunes:subtitle>Star Wars is almost here! We talk about the newest Destiny update and some new movie news!</itunes:subtitle>
+			<description>Star Wars is almost here! We talk about the newest Destiny update and some new movie news!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep17-twas-the-night-before-star-wars.mp3" length="76285569" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast16</guid>
 			<title>Top 5 Games of The Year</title>
 			<pubDate>Thu, 7 Dec 2017 12:00:00 +0000</pubDate>
