@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast18</guid>
+			<title>Deck The Halls With Games</title>
+			<pubDate>Thu, 21 Dec 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep18-deck-the-halls-with-games.mp3</link>
+			<itunes:duration>01:18:39</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>PUBG is finally official, Destiny 2 The Dawning and Star Wars: The Last Jedi Discussion - WARNING SPOILERS AHEAD!</itunes:summary>
+			<itunes:subtitle>PUBG is finally official, Destiny 2 The Dawning and Star Wars: The Last Jedi Discussion - WARNING SPOILERS AHEAD!</itunes:subtitle>
+			<description>PUBG is finally official, Destiny 2 The Dawning and Star Wars: The Last Jedi Discussion - WARNING SPOILERS AHEAD!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep18-deck-the-halls-with-games.mp3" length="75513401" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast17</guid>
 			<title>Twas The Night Before Star Wars</title>
 			<pubDate>Thu, 14 Dec 2017 12:00:00 +0000</pubDate>
