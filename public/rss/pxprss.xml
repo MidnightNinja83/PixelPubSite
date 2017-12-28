@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast19</guid>
+			<title>Goodbye 2017</title>
+			<pubDate>Thu, 28 Dec 2017 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep19-goodbye-2017.mp3</link>
+			<itunes:duration>01:26:05</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>We got Brandon, Jared, Andrew and Rob this week! We are talking about PSVR, Destiny 2 and Bright on Netflix. Goodbye 2017!</itunes:summary>
+			<itunes:subtitle>We got Brandon, Jared, Andrew and Rob this week! We are talking about PSVR, Destiny 2 and Bright on Netflix. Goodbye 2017!</itunes:subtitle>
+			<description>We got Brandon, Jared, Andrew and Rob this week! We are talking about PSVR, Destiny 2 and Bright on Netflix. Goodbye 2017!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep19-goodbye-2017.mp3" length="89448489" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast18</guid>
 			<title>Deck The Halls With Games</title>
 			<pubDate>Thu, 21 Dec 2017 12:00:00 +0000</pubDate>
