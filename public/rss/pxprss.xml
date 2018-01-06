@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast20</guid>
+			<title>Hello 2018</title>
+			<pubDate>Fri, 5 Jan 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep20-hello-2018.mp3</link>
+			<itunes:duration>01:20:31</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Hello 2018! We talk board games, awesome games done quick hype and the slender man movie!</itunes:summary>
+			<itunes:subtitle>Hello 2018! We talk board games, awesome games done quick hype and the slender man movie!</itunes:subtitle>
+			<description>Hello 2018! We talk board games, awesome games done quick hype and the slender man movie!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep20-hello-2018.mp3" length="82027645" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast19</guid>
 			<title>Goodbye 2017</title>
 			<pubDate>Thu, 28 Dec 2017 12:00:00 +0000</pubDate>
