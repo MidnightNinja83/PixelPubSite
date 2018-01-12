@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast21</guid>
+			<title>Happy Birthday Jared</title>
+			<pubDate>Fri, 12 Jan 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep21-happy-birthday-jared.mp3</link>
+			<itunes:duration>01:15:46</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we talk about AGDQ, Awesome games done quick, streaming burn out and new VR technology!</itunes:summary>
+			<itunes:subtitle>This week we talk about AGDQ, Awesome games done quick, streaming burn out and new VR technology!</itunes:subtitle>
+			<description>This week we talk about AGDQ, Awesome games done quick, streaming burn out and new VR technology!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep21-happy-birthday-jared.mp3" length="78557121" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast20</guid>
 			<title>Hello 2018</title>
 			<pubDate>Fri, 5 Jan 2018 12:00:00 +0000</pubDate>
