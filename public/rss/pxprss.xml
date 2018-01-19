@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast22</guid>
+			<title>Nintendo Labo... Cardboard of the Future!</title>
+			<pubDate>Thu, 18 Jan 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep22-nintendo-labo-cardboard-of-the-future.mp3</link>
+			<itunes:duration>00:54:46</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Exciting news from Nintendo this past week! We got new games coming and something that surprised us all! We dive into the WoW patch and talk about the latest updates from Bungie!</itunes:summary>
+			<itunes:subtitle>Exciting news from Nintendo this past week! We got new games coming and something that surprised us all! We dive into the WoW patch and talk about the latest updates from Bungie!</itunes:subtitle>
+			<description>Exciting news from Nintendo this past week! We got new games coming and something that surprised us all! We dive into the WoW patch and talk about the latest updates from Bungie!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep22-nintendo-labo-cardboard-of-the-future.mp3" length="52417867" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast21</guid>
 			<title>Happy Birthday Jared</title>
 			<pubDate>Fri, 12 Jan 2018 12:00:00 +0000</pubDate>
