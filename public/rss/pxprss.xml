@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast23</guid>
+			<title>Setting Sail on a Sea of Thieves!</title>
+			<pubDate>Thu, 25 Jan 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep23-setting-sail-on-a-sea-of-thieves.mp3</link>
+			<itunes:duration>01:05:19</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we set sails on the open waters of Sea of Thieves... and some of us play with submarines. We have a Godzilla review as well as gaming news!</itunes:summary>
+			<itunes:subtitle>This week we set sails on the open waters of Sea of Thieves... and some of us play with submarines. We have a Godzilla review as well as gaming news!</itunes:subtitle>
+			<description>This week we set sails on the open waters of Sea of Thieves... and some of us play with submarines. We have a Godzilla review as well as gaming news!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep23-setting-sail-on-a-sea-of-thieves.mp3" length="66378425" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast22</guid>
 			<title>Nintendo Labo... Cardboard of the Future!</title>
 			<pubDate>Thu, 18 Jan 2018 12:00:00 +0000</pubDate>
