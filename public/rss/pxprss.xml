@@ -8,7 +8,7 @@
 		<category>Games</category>
 		<language>en-us</language>
 		<image>
-			<url>http://www.pixelpubgaming.com/images/wtnlogo.png</url>
+			<url>http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png</url>
 			<title>We Talk Nerd Podcast</title>
 			<link>http://www.pixelpubgaming.com</link>
 		</image>
@@ -20,8 +20,22 @@
 		<itunes:author>We Talk Nerd</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:keywords>Gaming, Movies, TV, News, Nerd, Culture</itunes:keywords>
-		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png" />
+		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<guid isPermaLink="false">wtnpodcast26</guid>
+			<title>Sea of Thieves Sprung a Leak</title>
+			<pubDate>Sat, 18 Feb 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep26-sea-of-thieves-sprung-a-leak.mp3</link>
+			<itunes:duration>01:15:05</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!.</itunes:summary>
+			<itunes:subtitle>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!</itunes:subtitle>
+			<description>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep26-sea-of-thieves-sprung-a-leak.mp3" length="78959356" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast25</guid>
 			<title>Let's Talk Altered Carbon</title>
@@ -34,7 +48,7 @@
 			<itunes:subtitle>We got trailer load after trailer load of movies... thanks Super Bowl! We also dive into the new Netflix series, Altered Carbon.</itunes:subtitle>
 			<description>We got trailer load after trailer load of movies... thanks Super Bowl! We also dive into the new Netflix series, Altered Carbon.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep25-lets-talk-altered-carbon.mp3" length="69221497" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast24</guid>
@@ -48,7 +62,7 @@
 			<itunes:subtitle>This week we got the new allied races in WoW. Andrew discusses the roadmap to Destiny 2, and Rob gives us some comic talk!</itunes:subtitle>
 			<description>This week we got the new allied races in WoW. Andrew discusses the roadmap to Destiny 2, and Rob gives us some comic talk!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep24-the-allied-races-join-the-fight-for-azeroth.mp3" length="70939843" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast23</guid>
@@ -62,7 +76,7 @@
 			<itunes:subtitle>This week we set sails on the open waters of Sea of Thieves... and some of us play with submarines. We have a Godzilla review as well as gaming news!</itunes:subtitle>
 			<description>This week we set sails on the open waters of Sea of Thieves... and some of us play with submarines. We have a Godzilla review as well as gaming news!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep23-setting-sail-on-a-sea-of-thieves.mp3" length="66378425" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast22</guid>
@@ -76,7 +90,7 @@
 			<itunes:subtitle>Exciting news from Nintendo this past week! We got new games coming and something that surprised us all! We dive into the WoW patch and talk about the latest updates from Bungie!</itunes:subtitle>
 			<description>Exciting news from Nintendo this past week! We got new games coming and something that surprised us all! We dive into the WoW patch and talk about the latest updates from Bungie!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep22-nintendo-labo-cardboard-of-the-future.mp3" length="52417867" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast21</guid>
@@ -90,7 +104,7 @@
 			<itunes:subtitle>This week we talk about AGDQ, Awesome games done quick, streaming burn out and new VR technology!</itunes:subtitle>
 			<description>This week we talk about AGDQ, Awesome games done quick, streaming burn out and new VR technology!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep21-happy-birthday-jared.mp3" length="78557121" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast20</guid>
@@ -104,7 +118,7 @@
 			<itunes:subtitle>Hello 2018! We talk board games, awesome games done quick hype and the slender man movie!</itunes:subtitle>
 			<description>Hello 2018! We talk board games, awesome games done quick hype and the slender man movie!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep20-hello-2018.mp3" length="82027645" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast19</guid>
@@ -118,7 +132,7 @@
 			<itunes:subtitle>We got Brandon, Jared, Andrew and Rob this week! We are talking about PSVR, Destiny 2 and Bright on Netflix. Goodbye 2017!</itunes:subtitle>
 			<description>We got Brandon, Jared, Andrew and Rob this week! We are talking about PSVR, Destiny 2 and Bright on Netflix. Goodbye 2017!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep19-goodbye-2017.mp3" length="89448489" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast18</guid>
@@ -132,7 +146,7 @@
 			<itunes:subtitle>PUBG is finally official, Destiny 2 The Dawning and Star Wars: The Last Jedi Discussion - WARNING SPOILERS AHEAD!</itunes:subtitle>
 			<description>PUBG is finally official, Destiny 2 The Dawning and Star Wars: The Last Jedi Discussion - WARNING SPOILERS AHEAD!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep18-deck-the-halls-with-games.mp3" length="75513401" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast17</guid>
@@ -146,7 +160,7 @@
 			<itunes:subtitle>Star Wars is almost here! We talk about the newest Destiny update and some new movie news!</itunes:subtitle>
 			<description>Star Wars is almost here! We talk about the newest Destiny update and some new movie news!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep17-twas-the-night-before-star-wars.mp3" length="76285569" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast16</guid>
@@ -160,7 +174,7 @@
 			<itunes:subtitle>What were the best games of 2017? We also talk about the new Civ 6 and Destiny 2 DLC!</itunes:subtitle>
 			<description>What were the best games of 2017? We also talk about the new Civ 6 and Destiny 2 DLC!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep16-top-5-games-of-the-year.mp3" length="47841965" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast15</guid>
@@ -174,7 +188,7 @@
 			<itunes:subtitle>We talk about the new WoW patch, Destiny 2 DLC, and more MTX drama.</itunes:subtitle>
 			<description>We talk about the new WoW patch, Destiny 2 DLC, and more MTX drama.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep15-two-tokens-and-a-podcast.mp3" length="70130354" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast14</guid>
@@ -188,7 +202,7 @@
 			<itunes:subtitle>This week we talk about Battlefront 2... sadly.</itunes:subtitle>
 			<description>This week we talk about Battlefront 2... sadly.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep14-the-tragedy-of-ea-the-greedy.mp3" length="61370225" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast13</guid>
@@ -202,7 +216,7 @@
 			<itunes:subtitle>We talk Blizzcon and a quick review of the new Assassin's Creed.</itunes:subtitle>
 			<description>We talk Blizzcon and a quick review of the new Assassin's Creed.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep13-eye-of-the-blizzard.mp3" length="62204158" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast12</guid>
@@ -216,7 +230,7 @@
 			<itunes:subtitle>Another 2 man episode talking about the newest Mario, Destiny 2 raid, and a prelude to blizzcon.</itunes:subtitle>
 			<description>Another 2 man episode talking about the newest Mario, Destiny 2 raid, and a prelude to blizzcon.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep12-the-calm-before-the-blizzcon.mp3" length="54980117" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast11</guid>
@@ -230,7 +244,7 @@
 			<itunes:subtitle>We talk about some potential leaks for the upcoming WoW expansion and of course, Destiny 2 PC!</itunes:subtitle>
 			<description>We talk about some potential leaks for the upcoming WoW expansion and of course, Destiny 2 PC!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep11-destiny2-pc-hype.mp3" length="79126060" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast10</guid>
@@ -244,7 +258,7 @@
 			<itunes:subtitle>This week we are joined by our guest Rob. He talks about some board games and the Tick. We also give away a free copy of Destiny 2 for PC!</itunes:subtitle>
 			<description>This week we are joined by our guest Rob. He talks about some board games and the Tick. We also give away a free copy of Destiny 2 for PC!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep10-destiny2-giveaway.mp3" length="68905324" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast9</guid>
@@ -258,7 +272,7 @@
 			<itunes:subtitle>We talk Destiny 2 (of course), new movies, and Shadow of War</itunes:subtitle>
 			<description>We talk Destiny 2 (of course), new movies, and Shadow of War</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep9-shadow-of-podcast.mp3" length="73432841" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast8</guid>
@@ -272,7 +286,7 @@
 			<itunes:subtitle>This week we talk about the recent betas. With of course the weekly Destiny and WoW/PUBG stuff. Oh and we play 20 questions again.</itunes:subtitle>
 			<description>This week we talk about the recent betas. With of course the weekly Destiny and WoW/PUBG stuff. Oh and we play 20 questions again.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep8-how-about-them-betas.mp3" length="64846632" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast7</guid>
@@ -286,7 +300,7 @@
 			<itunes:subtitle>This week we bring you the latest news, go over destiny 2 some more, and then play 20 questions. Spoiler alert... its terrible.</itunes:subtitle>
 			<description>This week we bring you the latest news, go over destiny 2 some more, and then play 20 questions. Spoiler alert... its terrible.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep7-we-are-terrible-at-20-questions.mp3" length="69775387" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast6</guid>
@@ -300,7 +314,7 @@
 			<itunes:subtitle>Brief news and then we unleash the beast on Destiny 2.</itunes:subtitle>
 			<description>Brief news and then we unleash the beast on Destiny 2.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep6-destiny2-and-some-more-destiny2.mp3" length="67519880" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast5</guid>
@@ -314,7 +328,7 @@
 			<itunes:subtitle>We are down a man due to the hurricanes and we have a power outage at the end of the recording... fun! Destiny 2 next week!</itunes:subtitle>
 			<description>We are down a man due to the hurricanes and we have a power outage at the end of the recording... fun! Destiny 2 next week!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep5-just-the-two-of-us.mp3" length="39816861" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast4</guid>
@@ -328,7 +342,7 @@
 			<itunes:subtitle>This week we review Mario x Rabbids, talk about the future of Mass Effect, what games we are looking forward to and more!</itunes:subtitle>
 			<description>This week we review Mario x Rabbids, talk about the future of Mass Effect, what games we are looking forward to and more!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep4-its-rabbids-season.mp3" length="55472534" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast3</guid>
@@ -342,7 +356,7 @@
 			<itunes:subtitle>A quick run down of some Gamescom news, review the Defenders, Game of Thrones and more!</itunes:subtitle>
 			<description>A quick run down of some Gamescom news, review the Defenders, Game of Thrones and more!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep3-gamescom-more-like-lamescom.mp3" length="50005618" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast2</guid>
@@ -356,7 +370,7 @@
 			<itunes:subtitle>Week 2 of the We Talk Nerd podcast. This week we talk about what we would like to see in a N64 classic, weekly updates on Destiny 2 and PUBG news, and we discuss the Defenders and Game of Thrones.</itunes:subtitle>
 			<description>Week 2 of the We Talk Nerd podcast. This week we talk about what we would like to see in a N64 classic, weekly updates on Destiny 2 and PUBG news, and we discuss the Defenders and Game of Thrones.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep2-space-survival-and-leaks.mp3" length="53666209" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast1</guid>
@@ -370,7 +384,7 @@
 			<itunes:subtitle>Our first podcast into the world of nerd culture. We talk about games movies and more.</itunes:subtitle>
 			<description>Our first podcast into the world of nerd culture. We talk about games movies and more.</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep1-a-new-hope-for-podcasts.mp3" length="79103012" type="audio/mpeg" />
-			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo.png"/>
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
 		</item>
 	</channel>
 
