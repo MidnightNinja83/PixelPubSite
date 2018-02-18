@@ -22,6 +22,22 @@ $(document).on('click', '#game3Icon', event => {
     }, 500);
 });
 
+$(document).on('click', '#game4Icon', event => {
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $('#picGame4').offset().top + 175
+    }, 500);
+});
+
+$(document).on('click', '#wtnIcon', event => {
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $('#wtn').offset().top + 175
+    }, 500);
+});
+
 $(document).on('click', '#twitchIcon', event => {
     event.preventDefault();
 
