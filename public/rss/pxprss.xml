@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast27</guid>
+			<title>Black Panther Topping Charts!</title>
+			<pubDate>Thu, 22 Feb 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep27-black-panther-topping-charts.mp3</link>
+			<itunes:duration>01:10:23</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>We talk about the biggest movie in the world right now... Black Panther. We also talk about some Netflix shows and the latest in gaming news.</itunes:summary>
+			<itunes:subtitle>We talk about the biggest movie in the world right now... Black Panther. We also talk about some Netflix shows and the latest in gaming news.</itunes:subtitle>
+			<description>We talk about the biggest movie in the world right now... Black Panther. We also talk about some Netflix shows and the latest in gaming news.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep27-black-panther-topping-charts.mp3" length="72915651" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast26</guid>
 			<title>Sea of Thieves Sprung a Leak</title>
 			<pubDate>Sun, 18 Feb 2018 12:00:00 +0000</pubDate>
@@ -30,7 +44,7 @@
 			<itunes:duration>01:15:05</itunes:duration>
 			<itunes:author>We Talk Nerd</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
-			<itunes:summary>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!.</itunes:summary>
+			<itunes:summary>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!</itunes:summary>
 			<itunes:subtitle>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!</itunes:subtitle>
 			<description>We discuses the new RPG sweeping Twitch, as well as some Sea of Thieves leaks and Destiny updates. We review Altered Carbon and prepare for our review of Black Panther next week!</description>
 			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep26-sea-of-thieves-sprung-a-leak.mp3" length="78959356" type="audio/mpeg" />

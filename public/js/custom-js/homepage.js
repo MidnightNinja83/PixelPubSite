@@ -30,6 +30,14 @@ $(document).on('click', '#game4Icon', event => {
     }, 500);
 });
 
+$(document).on('click', '#game5Icon', event => {
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $('#picGame5').offset().top + 175
+    }, 500);
+});
+
 $(document).on('click', '#wtnIcon', event => {
     event.preventDefault();
 
