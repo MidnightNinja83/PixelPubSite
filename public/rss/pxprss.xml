@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast29</guid>
+			<title>Sea of Thieves Open Beta? Maybe</title>
+			<pubDate>Thu, 8 Mar 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep29-sea-of-thieves-open-beta-maybe</link>
+			<itunes:duration>01:13:44</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>We bring you the latest in gaming news as well as speculation on if Sea of Thieves will be a public beta this weekend. With some movie and tv news and a review for the Hulu show Future Man, and 20 questions is back.</itunes:summary>
+			<itunes:subtitle>We bring you the latest in gaming news as well as speculation on if Sea of Thieves will be a public beta this weekend. With some movie and tv news and a review for the Hulu show Future Man, and 20 questions is back.</itunes:subtitle>
+			<description>We bring you the latest in gaming news as well as speculation on if Sea of Thieves will be a public beta this weekend. With some movie and tv news and a review for the Hulu show Future Man, and 20 questions is back.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep29-sea-of-thieves-open-beta-maybe" length="79178272" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast28</guid>
 			<title>We Jump Into The Breach</title>
 			<pubDate>Sun, 3 Mar 2018 12:00:00 +0000</pubDate>

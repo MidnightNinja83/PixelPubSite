@@ -2,7 +2,7 @@ require('waypoints/lib/jquery.waypoints.min');
 require('howler/dist/howler');
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep28-we-jump-into-the-breach.mp3'],
+  src: ['../media/wtnpodcast/ep29-sea-of-thieves-open-beta-maybe'],
   html5: true,
   buffer: true,
   onloaderror: logErr
