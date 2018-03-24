@@ -25,7 +25,11 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'Y',
+	'cookie secret': 'secret'
 });
+
+// Cloudinary
+keystone.set('cloudinary config', { cloud_name: 'dvgw4ra2s', api_key: '424242645953463', api_secret: 'c8jZDW4MLuWAHjJiPBRx8CnTgng' });
 
 // Load your project's Models
 keystone.import('models');
@@ -43,7 +47,6 @@ keystone.set('locals', {
 // Load your project's Routes
 keystone.set('routes', require('./routes'));
 
-
 // Configure the navigation bar in Keystone's Admin UI
 keystone.set('nav', {
 	posts: ['posts', 'post-categories'],
@@ -54,7 +57,7 @@ keystone.set('nav', {
 
 // Start Keystone to connect to your database and initialise the web server
 
-
+/*
 if (!process.env.MAILGUN_API_KEY || !process.env.MAILGUN_DOMAIN) {
 	console.log('----------------------------------------'
 	+ '\nWARNING: MISSING MAILGUN CREDENTIALS'
@@ -64,6 +67,6 @@ if (!process.env.MAILGUN_API_KEY || !process.env.MAILGUN_DOMAIN) {
 	+ '\n\nCreate a mailgun account and add the credentials to the .env file to'
 	+ '\nset up your mailgun integration');
 }
-
+*/
 
 keystone.start();
