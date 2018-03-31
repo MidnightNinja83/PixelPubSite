@@ -1,0 +1,31 @@
+extends ../layouts/default
+
+block content
+
+	<!-- The video -->
+	div.long
+		video#d2Vid(autoplay='', muted='', loop='')
+			source(src='/videos/D2_Test_Vod.mp4', type='video/mp4')
+		.vidContent
+			h1 Test
+			p More testing
+			
+	div.long
+		video#d2Vid2(autoplay='', muted='', loop='')
+			source(src='/videos/D2_Test_Vod2.mp4', type='video/mp4')
+		.vidContent
+			h1 Test2
+			p More testing2
+
+	//div#picGame1.game-img1.parallax.long
+	//div#picGame2.game-img2.parallax.long
+	//div#picGame3.game-img3.parallax.long
+	
+	// add when we get gameplay of these games
+	//div#picGame4.game-img4.parallax.long
+	//div#picGame5.game-img5.parallax.long
+	
+	script(src='/js/jquery/jquery-3.2.1.min.js')
+	script(src='/js/jquery-ui/jquery-ui.min.js')
+	script(src='/js/browserify/dist/bundle.js')
+	script(src='/js/custom-js/homepage.js')

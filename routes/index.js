@@ -35,10 +35,11 @@ var routes = {
 exports = module.exports = function (app) {
 	// Views
 	app.get('/', routes.views.index);
+	app.get('/games', routes.views.games);
 	app.get('/blog/:category?', routes.views.blog);
 	app.get('/blog/post/:post', routes.views.post);
-	app.get('/gallery', routes.views.gallery);
-	app.get('/crew', routes.views.crew);
+	//app.get('/gallery', routes.views.gallery);
+	app.get('/staff', routes.views.staff);
 	app.get('/about', routes.views.about);
 	//app.all('/contact', routes.views.contact);
 

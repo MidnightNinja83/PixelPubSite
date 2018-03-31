@@ -10,6 +10,46 @@ img {
 
 /**********************************************************************/
 
+/* Style the video: 100% width and height to cover the entire window */
+
+/*
+#d2Vid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+*/
+
+#d2Vid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+#d2Vid2 {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.vidContent {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+/**********************************************************************/
+
 #mediaCell {
 	text-align: center;
 	vertical-align: middle;
@@ -141,6 +181,21 @@ input:checked + .slider:before {
     background-size: cover;
 }
 
+video {
+	display: inline-block;
+    position: absolute;
+    top: 51%;
+    left: 51%;
+    min-width: 102%;
+    min-height: 102%;
+    width: auto;
+    height: auto;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+	z-index: -99;
+}
+
 .game-icons {
 	height: 350px;
 	margin-left: 2%;
@@ -189,7 +244,7 @@ div#aboutBlock p {
 	vertical-align: middle;
 }
 
-/***********************************************************************************************/
+/**********************************************************************/
 
 @media screen and (min-width: 320px) {
 	h1 {
@@ -533,14 +588,14 @@ div#aboutBlock p {
 	}
 }
 
-/***********************************************************************************************/
+/**********************************************************************/
 
 .ppb-1 {
 	background-image: url('/images/ppb-1.jpg');
 	background-size: 100%;
 }
 
-/* game-img1, 2, 3 should be used in priority of viewership per community */
+/* game-img blocks should be used in priority of viewership per community */
 
 .game-img1 {
 	background-image: url('/images/d2-press-1.jpg');
