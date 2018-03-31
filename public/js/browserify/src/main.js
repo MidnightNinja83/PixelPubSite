@@ -2,7 +2,7 @@ require('waypoints/lib/jquery.waypoints.min');
 require('howler/dist/howler');
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep31-vermintide-pest-control.mp3'],
+  src: ['../media/wtnpodcast/ep32-pubg-mobile-vs-fortnite-mobile.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr

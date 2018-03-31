@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast32</guid>
+			<title>PUBG Mobile vs Fortnite Mobile</title>
+			<pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep32-pubg-mobile-vs-fortnite-mobile.mp3</link>
+			<itunes:duration>01:18:14</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we go over the latest news and talk about some Twitch. We also review those mobile versions of our favorite BRs and new superhero shows.</itunes:summary>
+			<itunes:subtitle>This week we go over the latest news and talk about some Twitch. We also review those mobile versions of our favorite BRs and new superhero shows.</itunes:subtitle>
+			<description>This week we go over the latest news and talk about some Twitch. We also review those mobile versions of our favorite BRs and new superhero shows.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep32-pubg-mobile-vs-fortnite-mobile.mp3" length="73706957" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast31</guid>
 			<title>Vermintide Pest Control</title>
 			<pubDate>Sat, 24 Mar 2018 12:00:00 +0000</pubDate>
