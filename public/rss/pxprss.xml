@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast33</guid>
+			<title>20 Questions</title>
+			<pubDate>Fri, 6 Apr 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep33-20-questions.mp3</link>
+			<itunes:duration>01:02:27</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>No live episode this week but we do have unreleased audio to share with you guys! Come have fun with us!</itunes:summary>
+			<itunes:subtitle>No live episode this week but we do have unreleased audio to share with you guys! Come have fun with us!</itunes:subtitle>
+			<description>No live episode this week but we do have unreleased audio to share with you guys! Come have fun with us!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep33-20-questions.mp3" length="65463973" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast32</guid>
 			<title>PUBG Mobile vs Fortnite Mobile</title>
 			<pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
