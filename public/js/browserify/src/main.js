@@ -1,6 +1,10 @@
 require('waypoints/lib/jquery.waypoints.min');
 require('howler/dist/howler');
 
+/***************************************************************************************/
+// Frontpage
+/***************************************************************************************/
+
 var wtnPlaylist = new Howl({
   src: ['../media/wtnpodcast/ep32-pubg-mobile-vs-fortnite-mobile.mp3'],
   html5: true,

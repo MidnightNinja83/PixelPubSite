@@ -1,0 +1,30 @@
+extends ../layouts/default
+
+block content
+
+	.header-video
+		img.header-video__media(src='/images/ppb-1.jpg', data-video-url='https://www.youtube.com/embed/0rtV7lvhbUs', yt-video-id='0rtV7lvhbUs' data-teaser='video/teaser-video', data-video-width='560', data-video-height='315')
+	div#textIframe
+		h1#1inOut.russoOneh1W.hidden Destiny 2
+		h1#2inOut.russoOneh1W.hidden Wrath Incarnate
+		h1#3inOut.russoOneh1W.hidden Scroll for more
+		
+	.container
+		.arrow.bounce
+			i.fa.fa-angle-down.fa-5x(aria-hidden='true')
+	.below
+		h1.fadeIn.russoOneh1B [WIN] WRATH INCARNATE
+		p.fadeIn.russoOneh1B.fontSizeSmall.textCenter
+			| "We took back our light, now we want everything else.."
+		p.fadeIn.russoOneh1B.fontSizeSmall
+			| We are Wrath Incarnate, a clan that strives to provide a rewarding and fun experience on Destiny 2. Destiny is best played with gamers that respect and help one another, this is the cornerstone of our clan. When players are respectful, helpful and have a common goal, great things can be achieved. Whether that goal is to complete the latest raid, or dominate in the Crucible, we got it.
+		p.fadeIn.russoOneh1B.fontSizeSmall
+			| We are recruiting all guardians to our clan! When joining any of our Wrath Incarnate clans, you will also be invited to join our Discord server. This opens opportunities to meet and play with new guardians! We have Destiny 2 veterans that have completed all the content and ready to lead new PC players in the raid, trials or nightfall events! We also have a great team of moderators and event leaders to make your experience in Destiny better.
+		p.fadeIn.russoOneh1B.fontSizeSmall
+			| Wrath Incarnate is not only a Destiny clan, but a gaming community. We love Destiny but we also enjoy other games and game types (MOBAs, RPGs, MMOs, Card Games, etc). We encourage our clan members not only to play Destiny together, but play the games you love, meet new people and be a part of a great community of gamers.
+		p.fadeIn.russoOneh1B.fontSizeSmall
+			| This is a gaming community built around you, the player. We built our website http://www.pixelpubgaming.com to grow our community. We built our Discord server based upon user feedback and suggestions. We listen, make changes and help our members so they can enjoy social gaming at its best.
+		
+	script(src='/js/jquery/jquery-3.2.1.min.js')
+	script(src='/js/jquery-ui/jquery-ui.min.js')
+	script(src='/js/browserify/dist/destiny.js')
