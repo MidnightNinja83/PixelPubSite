@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast34</guid>
+			<title>We Talk Ready Player One</title>
+			<pubDate>Sat, 14 Apr 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep34-we-talk-ready-player-one.mp3</link>
+			<itunes:duration>01:21:25</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we talk about one of the biggest nerd movies of the year! We also have a couple game reviews to through at you and some comics getting ready for Infinity War!</itunes:summary>
+			<itunes:subtitle>This week we talk about one of the biggest nerd movies of the year! We also have a couple game reviews to through at you and some comics getting ready for Infinity War!</itunes:subtitle>
+			<description>This week we talk about one of the biggest nerd movies of the year! We also have a couple game reviews to through at you and some comics getting ready for Infinity War!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep34-we-talk-ready-player-one.mp3" length="81114298" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast33</guid>
 			<title>20 Questions</title>
 			<pubDate>Fri, 6 Apr 2018 12:00:00 +0000</pubDate>
