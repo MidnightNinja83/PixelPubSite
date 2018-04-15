@@ -1,0 +1,26 @@
+extends ../layouts/default
+
+block content
+
+	.divTable
+		.divTableRow
+			.divTableCell.thumbGame#game1
+				a(href='#')
+			.divTableCell.thumbGame#game2
+				a(href='#')
+			.divTableCell.thumbGame#game3
+				a(href='#')
+	
+	div#game1txt.divTable.hidden
+		p.russoOneh1B.fontSizeLarge Wrath Incarnate
+		img(src='/images/ppl-1.png')
+	div#game2txt.divTable.hidden
+		p.russoOneh1B.fontSizeLarge Wrath Incarnate
+		img(src='/images/ppl-1.png')
+	div#game3txt.divTable.hidden
+		p.russoOneh1B.fontSizeLarge Wrath Incarnate
+		img(src='/images/ppl-1.png')
+
+	script(src='/js/jquery/jquery-3.2.1.min.js')
+	script(src='/js/jquery-ui/jquery-ui.min.js')
+	script(src='/js/browserify/dist/games.js')
