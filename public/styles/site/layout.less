@@ -62,7 +62,6 @@ img {
 }
 
 .russoOneh1B {
-	text-shadow:0 1px 2px #333;
 	color: black;
 	font-family: 'Russo One', sans-serif !important;
 }
@@ -142,9 +141,14 @@ img {
   }
 }
 
-i {
+iWhite {
   display: block;
-  color: #fff;
+  color: white;
+}
+
+iBlack {
+  display: block;
+  color: black;
 }
 
 .arrow {
@@ -163,6 +167,8 @@ i {
 }
 
 /**********************************************************************/
+
+/* Front Page */
 
 .fadeIn {
     opacity: 0;
@@ -241,6 +247,8 @@ input:checked + .slider:before {
 }
 
 /**********************************************************************/
+
+/* General */
 
 .divTable {
 	display: table;
@@ -345,6 +353,18 @@ div#aboutBlock p {
 	opacity: 0.7;
 	display: inline-table;
 	vertical-align: middle;
+}
+
+.zoom {
+    padding: 50px;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
 }
 
 /**********************************************************************/
@@ -689,60 +709,6 @@ div#aboutBlock p {
 	.long {
 		height: 800px;
 	}
-}
-
-/**********************************************************************/
-
-/*Thumbnail Background*/
-.thumbGame {
-	width: 500px; height: 500px; margin: 70px auto;
-	perspective: 1000px;
-}
-
-.thumbGame a {
-	display: block; width: 100%; height: 100%;
-	/*double layered BG for lighting effect*/
-	background: 
-		linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-		url('/images/d2-games-logo.jpg');
-	/*disabling the translucent black bg on the main image*/
-	background-size: 0, cover;
-	/*3d space for children*/
-	transform-style: preserve-3d;
-	transition: all 0.5s;
-}
-
-.thumbGame:hover a {transform: rotateX(80deg); transform-origin: bottom;}
-
-/*bottom surface */
-.thumbGame a:after {
-	/*36px high element positioned at the bottom of the image*/
-	content: ''; position: absolute; left: 0; bottom: 0; 
-	width: 100%; height: 36px;
-	/*inherit the main BG*/
-	background: inherit; background-size: cover, cover;
-	/*draw the BG bottom up*/
-	background-position: bottom;
-	/*rotate the surface 90deg on the bottom axis*/
-	transform: rotateX(90deg); transform-origin: bottom;
-}
-
-/*label style*/
-.thumbGame a span {
-	color: white; text-transform: uppercase;
-	position: absolute; top: 100%; left: 0; width: 100%;
-	font: bold 12px/36px; text-align: center;
-	/*the rotation is a bit less than the bottom surface to avoid flickering*/
-	transform: rotateX(-89.99deg); transform-origin: top;
-	z-index: 1;
-}
-
-.thumbGame:hover a:before {
-	opacity: 1;
-	/*blurred effect using box shadow as filter: blur is not supported in all browsers*/
-	box-shadow: 0 0 25px 25px rgba(0, 0, 0, 0.5);
-	/*pushing the shadow down and scaling it down to size*/
-	transform: rotateX(0) translateZ(-60px) scale(0.85);
 }
 
 /**********************************************************************/
