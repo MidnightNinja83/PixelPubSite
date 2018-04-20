@@ -1,6 +1,17 @@
 require('waypoints/lib/jquery.waypoints.min');
 require('howler/dist/howler');
 
+/***************************************************************************************/
+// Frontpage
+/***************************************************************************************/
+
+$(document).ready(function() {
+	$(window).scroll(function() {
+		// Bouncing arrow fade out
+    	$('.arrow').css('opacity', 1 - $(window).scrollTop() / 250); 
+	});
+});
+
 var wtnPlaylist = new Howl({
   src: ['../media/wtnpodcast/ep34-we-talk-ready-player-one.mp3'],
   html5: true,

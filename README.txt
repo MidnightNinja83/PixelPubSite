@@ -18,13 +18,17 @@ http://keystonejs.com/getting-started/
 	download the https://slproweb.com/download/Win64OpenSSL-1_0_2n.exe
 
 in the public\js\browserify directory, run the following:
-watchify src/main.js -o dist/bundle.js -v
+watchify src/main.js -o dist/main.js -v
+watchify src/destiny.js -o dist/destiny.js -v
+watchify src/games.js -o dist/games.js -v
 
 Start Local:
 
 "<path>\mongod.exe" --dbpath <path>\data
 
 > "D:\DevSpace\bin\mongod.exe" --dbpath d:\DevSpace\mongodb\data
+
+> "C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe" --dbpath C:\DevSpace\mongodb\data
 
 > nav to project folder > node keystone
 

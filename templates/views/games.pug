@@ -1,0 +1,41 @@
+extends ../layouts/default
+
+block content
+
+	.divTable
+		.divTableRow
+			.divTableCell.zoom
+				a(href='/destiny')
+					img(src='/images/d2-games-logo-banner.jpg')
+			.divTableCell.zoom
+				a(href='http://pixelpubgaming.com/blog/post/pixelpub-world-of-warcraft-community')
+					img(src='/images/WoW_BfA_Games_Logo.jpg')
+			.divTableCell.zoom
+				a(href='http://pixelpubgaming.com/blog/post/join-the-party-bus-fortnite-battle-royale')
+					img(src='/images/fortnite-br-games-logo.jpg')
+		.divTableRow
+			.divTableCell.zoom
+				a(href='http://pixelpubgaming.com/blog/post/sea-of-thieves')
+					img(src='/images/SoT-games-logo.jpg')
+			.divTableCell.zoom
+				a(href='http://pixelpubgaming.com/blog/post/monster-hunter-world')
+					img(src='/images/mhw-games-logo.jpg')
+			.divTableCell.zoom
+				a(href='http://pixelpubgaming.com/blog/post/pixelpub-ark-survival-evolved-pc-pve-server')
+					img(src='/images/ark-games-logo.jpg')
+				
+	.container
+		.arrow.bounce
+			iBlack.fa.fa-angle-down.fa-5x(aria-hidden='true')
+	
+	div#picDiscord.discord.parallax.long
+	a(href="https://discord.gg/uw3PMqV")
+		h1 DISCORD SERVER
+	p#descDiscord.between-text-block
+		| Join our #[a(href="https://discord.gg/uw3PMqV") Discord Server]! <br> 
+		| We have voice chat channels, text chat channels and promote a friendly gaming community. <br>
+		| Discord has great iOS & Android applications to keep in touch wherever you go!
+			
+	script(src='/js/jquery/jquery-3.2.1.min.js')
+	script(src='/js/jquery-ui/jquery-ui.min.js')
+	script(src='/js/browserify/dist/games.js')
