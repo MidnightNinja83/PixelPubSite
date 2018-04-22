@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep34-we-talk-ready-player-one.mp3'],
+  src: ['../media/wtnpodcast/ep35-the-next-fortnite-coming-soon.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr

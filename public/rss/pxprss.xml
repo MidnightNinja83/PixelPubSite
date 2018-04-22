@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast35</guid>
+			<title>The Next Fortnite Coming Soon?</title>
+			<pubDate>Sat, 21 Apr 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep35-the-next-fortnite-coming-soon.mp3</link>
+			<itunes:duration>01:14:40</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Some news drops about upcoming BR modes for Battlefield and Call of Duty. We also talk about another Infinity comic!</itunes:summary>
+			<itunes:subtitle>Some news drops about upcoming BR modes for Battlefield and Call of Duty. We also talk about another Infinity comic!</itunes:subtitle>
+			<description>Some news drops about upcoming BR modes for Battlefield and Call of Duty. We also talk about another Infinity comic!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep35-the-next-fortnite-coming-soon.mp3" length="75340566" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast34</guid>
 			<title>We Talk Ready Player One</title>
 			<pubDate>Sat, 14 Apr 2018 12:00:00 +0000</pubDate>
