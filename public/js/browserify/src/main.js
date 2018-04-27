@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep35-the-next-fortnite-coming-soon.mp3'],
+  src: ['../media/wtnpodcast/ep36-we-talk-god-of-war.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr

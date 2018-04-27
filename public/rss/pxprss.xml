@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast36</guid>
+			<title>We Talk God of War</title>
+			<pubDate>Thu, 26 Apr 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep36-we-talk-god-of-war.mp3</link>
+			<itunes:duration>01:18:10</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we talk the largest game out right now, God of War. We also talk about the new Destiny 2 DLC and what to expect. And our final Infinity Comic review before the big movie 10 years in the making!</itunes:summary>
+			<itunes:subtitle>This week we talk the largest game out right now, God of War. We also talk about the new Destiny 2 DLC and what to expect. And our final Infinity Comic review before the big movie 10 years in the making!</itunes:subtitle>
+			<description>This week we talk the largest game out right now, God of War. We also talk about the new Destiny 2 DLC and what to expect. And our final Infinity Comic review before the big movie 10 years in the making!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep36-we-talk-god-of-war.mp3" length="77002679" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast35</guid>
 			<title>The Next Fortnite Coming Soon?</title>
 			<pubDate>Sat, 21 Apr 2018 12:00:00 +0000</pubDate>
