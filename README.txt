@@ -20,6 +20,7 @@ http://keystonejs.com/getting-started/
 in the public\js\browserify directory, run the following:
 watchify src/main.js -o dist/main.js -v
 watchify src/destiny.js -o dist/destiny.js -v
+watchify src/worldofwarcraft.js -o dist/worldofwarcraft.js -v
 watchify src/games.js -o dist/games.js -v
 
 Start Local:
