@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast37</guid>
+			<title>We Talk Infinity War</title>
+			<pubDate>Fri, 4 May 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep37-we-talk-infinity-war.mp3</link>
+			<itunes:duration>00:40:33</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we talk about the movie everyone is talking about Infinity War! The biggest movie in the world right now!</itunes:summary>
+			<itunes:subtitle>This week we talk about the movie everyone is talking about Infinity War! The biggest movie in the world right now!</itunes:subtitle>
+			<description>This week we talk about the movie everyone is talking about Infinity War! The biggest movie in the world right now!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep37-we-talk-infinity-war.mp3" length="39838123" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast36</guid>
 			<title>We Talk God of War</title>
 			<pubDate>Thu, 26 Apr 2018 12:00:00 +0000</pubDate>
