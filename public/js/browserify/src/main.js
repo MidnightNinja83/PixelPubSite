@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep37-we-talk-infinity-war.mp3'],
+  src: ['../media/wtnpodcast/ep38-destiny-warmind-release.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr

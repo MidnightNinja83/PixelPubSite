@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast38</guid>
+			<title>Destiny 2 Warmind Release</title>
+			<pubDate>Thu, 10 May 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep38-destiny-warmind-release.mp3</link>
+			<itunes:duration>00:52:26</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we talk about the Destiny 2 Warmind and Season 3 release, fortnite and comics!</itunes:summary>
+			<itunes:subtitle>This week we talk about the Destiny 2 Warmind and Season 3 release, fortnite and comics!</itunes:subtitle>
+			<description>This week we talk about the Destiny 2 Warmind and Season 3 release, fortnite and comics!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep38-destiny-warmind-release.mp3" length="75523127" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast37</guid>
 			<title>We Talk Infinity War</title>
 			<pubDate>Fri, 4 May 2018 12:00:00 +0000</pubDate>
