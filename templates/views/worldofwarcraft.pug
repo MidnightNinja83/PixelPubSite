@@ -1,0 +1,44 @@
+extends ../layouts/default
+
+block content
+
+	.header-video
+		img.header-video__media(src='/images/ppb-1.jpg', data-video-url='https://www.youtube.com/embed/a7Z7X21dMuk', yt-video-id='0rtV7lvhbUs' data-teaser='video/teaser-video', data-video-width='560', data-video-height='315')
+	div#textIframeWow
+		h1#1inOut.bangersh1W.hidden World of Warcraft
+		h1#2inOut.bangersh1W.hidden The Bad Mama Jamas
+		h1#3inOut.bangersh1W.hidden Scroll for more
+		
+	.container
+		.arrow.bounce
+			iWhite.fa.fa-angle-down.fa-5x(aria-hidden='true')
+			
+	.below
+		h1.fadeIn.bangersh1B #[a(href="https://www.pixelpubgaming.com/blog/post/pixelpub-world-of-warcraft-community") THE BAD MAMA JAMAS]
+		p.fadeIn.bangersh1B.fontSizeSmall.textCenter
+			| Region: US-NA | Realm - Faction: #[a(href="http://us.battle.net/wow/en/guild/sargeras/The_Bad_Mama_Jamas/") Sargeras - Alliance] | #[a(href="http://us.battle.net/wow/en/guild/bleeding-hollow/The_Bad_Mama_Jamas") Bleeding Hollow - Horde]
+		p.fadeIn.bangersh1B.fontSizeSmall.textCenter
+			| “On the frontlines of the war, on the battlefields for our homeland, we are The Bad Mama Jamas.”
+		p.fadeIn.bangersh1B.fontSizeSmall
+			| The Bad Mama Jamas strives to provide a rewarding and fun experience in WoW. WoW is best played with gamers that respect and help one another, this is the cornerstone of our guild. When players are respectful, helpful and have a common goal, great things can be achieved. Whether that goal is to complete the latest raid, or dominate in pvp, we got it.
+		p.fadeIn.bangersh1B.fontSizeSmall
+			| All players are welcome into the guild! When joining The Bad Mama Jamas, you will also be joining many more gamers on our Discord server. This opens opportunities to meet and play with new gamers! We have WoW veterans that have completed all the previous content and are ready to lead new players in the raids, mythic plus dungeons and battlegrounds! We also have a great team of moderators and event leaders to make your experience in WoW better.
+		p.fadeIn.bangersh1B.fontSizeSmall
+			| The Bad Mama Jamas is not only a WoW guild, but a gaming community. We love WoW but we also enjoy other games and game types (MOBAs, RPGs, FPS Games, Card Games, etc). We encourage our guild members not only to play WoW together, but play the games you love, meet new people and be a part of a great community of gamers.
+		h1.fadeIn.bangersh1B How to Join:
+		p.fadeIn.bangersh1B.fontSizeSmall.textCenter
+			| - Looking to raid? Fill out our #[a(href="https://goo.gl/forms/P7LTU5azPYz2Tmxa2") Raiding Application] <br> 	
+			| - To join as a casual member, join our #[a(href="https://discord.gg/uw3PMqV") Discord] and introduce yourself in the #the-tavern channel! <br> 
+			| If you have any questions regarding membership, feel free to reach out to our moderators on Discord.
+			
+	div#picDiscord.discord.parallax.long
+	a(href="https://discord.gg/uw3PMqV")
+		h1 DISCORD SERVER
+	p#descDiscord.between-text-block
+		| Join our #[a(href="https://discord.gg/uw3PMqV") Discord Server]! <br> 
+		| We have voice chat channels, text chat channels and promote a friendly gaming community. <br>
+		| Discord has great iOS & Android applications to keep in touch wherever you go!
+		
+	script(src='/js/jquery/jquery-3.2.1.min.js')
+	script(src='/js/jquery-ui/jquery-ui.min.js')
+	script(src='/js/browserify/dist/destiny.js')
