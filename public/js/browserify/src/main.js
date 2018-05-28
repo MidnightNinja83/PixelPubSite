@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep39-we-talk-cobra-kai.mp3'],
+  src: ['../media/wtnpodcast/ep40-we-talk-deadpool-2.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr
