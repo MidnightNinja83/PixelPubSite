@@ -24,6 +24,7 @@ exports.initLocals = function (req, res, next) {
 		{ label: 'Blog', key: 'blog', href: '/blog' },
 		// { label: 'Gallery', key: 'gallery', href: '/gallery' },
 		{ label: 'Staff', key: 'staff', href: '/staff' },
+		{ label: 'Merchandise', key: 'Merchandise', href: 'https://www.designbyhumans.com/shop/PixelPub/t-shirts/' },
 		{ label: 'About', key: 'about', href: '/about' },
 		// { label: 'Contact', key: 'contact', href: '/contact' },
 	];
