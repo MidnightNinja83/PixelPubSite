@@ -27,7 +27,7 @@ Start Local:
 
 "<path>\mongod.exe" --dbpath <path>\data
 
-> "D:\DevSpace\bin\mongod.exe" --dbpath d:\DevSpace\mongodb\data
+> "D:\DevSpace\MongoDB\Server\3.6\bin\mongod.exe" --dbpath D:\DevSpace\MongoDB\Data
 
 > "C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe" --dbpath C:\DevSpace\mongodb\data
 

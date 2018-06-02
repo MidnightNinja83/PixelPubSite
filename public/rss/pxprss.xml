@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast41</guid>
+			<title>We Talk Solo</title>
+			<pubDate>Fri, 1 June 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep41-we-talk-solo.mp3</link>
+			<itunes:duration>01:12:52</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Lots of big gaming news and leaks this week. We also do a deep dive into Star Wars and the new Solo movie!</itunes:summary>
+			<itunes:subtitle>Lots of big gaming news and leaks this week. We also do a deep dive into Star Wars and the new Solo movie!</itunes:subtitle>
+			<description>Lots of big gaming news and leaks this week. We also do a deep dive into Star Wars and the new Solo movie!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep41-we-talk-solo.mp3" length="71379899" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast40</guid>
 			<title>We Talk Deadpool 2</title>
 			<pubDate>Mon, 28 May 2018 12:00:00 +0000</pubDate>
