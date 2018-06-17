@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep42-we-talk-destiny-2-year-2.mp3'],
+  src: ['../media/wtnpodcast/ep43-we-talk-e3-2018.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr
