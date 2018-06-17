@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast43</guid>
+			<title>We Talk E3 2018</title>
+			<pubDate>Sat, 16 June 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep43-we-talk-e3-2018.mp3</link>
+			<itunes:duration>01:21:48</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This is the week we have all been waiting for! E3 2018 is here and we are going to tell you all about it.</itunes:summary>
+			<itunes:subtitle>This is the week we have all been waiting for! E3 2018 is here and we are going to tell you all about it.</itunes:subtitle>
+			<description>This is the week we have all been waiting for! E3 2018 is here and we are going to tell you all about it.</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep43-we-talk-e3-2018.mp3" length="84895650" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast42</guid>
 			<title>We Talk Destiny 2 Year 2</title>
 			<pubDate>Sat, 9 June 2018 12:00:00 +0000</pubDate>
