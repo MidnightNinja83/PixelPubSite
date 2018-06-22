@@ -47,15 +47,12 @@ keystone.set('locals', {
 // Load your project's Routes
 keystone.set('routes', require('./routes'));
 
-// iframe frame guard
-keystone.set('frame guard', false);
-
 // Configure the navigation bar in Keystone's Admin UI
 keystone.set('nav', {
 	posts: ['posts', 'post-categories'],
 	galleries: 'galleries',
 	enquiries: 'enquiries',
-	ys: 'ys',
+	ys: 'ys'
 });
 
 // Start Keystone to connect to your database and initialise the web server
