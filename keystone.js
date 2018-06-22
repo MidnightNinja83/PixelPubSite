@@ -25,7 +25,9 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'Y',
-	'cookie secret': 'secret'
+	'cookie secret': 'secret',
+
+	'frame guard': false
 });
 
 // Cloudinary
