@@ -25,9 +25,7 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'Y',
-	'cookie secret': 'secret',
-
-	'frame guard': false
+	'cookie secret': 'secret'
 });
 
 // Cloudinary
@@ -43,11 +41,14 @@ keystone.set('locals', {
 	_: require('lodash'),
 	env: keystone.get('env'),
 	utils: keystone.utils,
-	editable: keystone.content.editable,
+	editable: keystone.content.editable
 });
 
 // Load your project's Routes
 keystone.set('routes', require('./routes'));
+
+// iframe frame guard
+keystone.set('frame guard', false);
 
 // Configure the navigation bar in Keystone's Admin UI
 keystone.set('nav', {
