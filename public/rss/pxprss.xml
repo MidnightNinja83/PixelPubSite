@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
 	<channel>
 		<title>We Talk Nerd Podcast</title>
@@ -22,6 +22,20 @@
 		<itunes:keywords>Gaming, Movies, TV, News, Nerd, Culture</itunes:keywords>
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<guid isPermaLink="false">wtnpodcast44</guid>
+			<title>We Talk WoW</title>
+			<pubDate>Fri, 29 June 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep44-we-talk-wow.mp3</link>
+			<itunes:duration>01:14:54</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week Jared is back to talk about some new content in WoW and we review some games and play 20 questions!</itunes:summary>
+			<itunes:subtitle>This week Jared is back to talk about some new content in WoW and we review some games and play 20 questions!</itunes:subtitle>
+			<description>This week Jared is back to talk about some new content in WoW and we review some games and play 20 questions!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep44-we-talk-wow.mp3" length="69442632" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
 		<item>
 			<guid isPermaLink="false">wtnpodcast43</guid>
 			<title>We Talk E3 2018</title>
