@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep43-we-talk-e3-2018.mp3'],
+  src: ['../media/wtnpodcast/ep44-we-talk-wow.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr
