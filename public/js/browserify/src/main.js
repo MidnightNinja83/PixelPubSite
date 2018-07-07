@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 var wtnPlaylist = new Howl({
-  src: ['../media/wtnpodcast/ep44-we-talk-wow.mp3'],
+  src: ['../media/wtnpodcast/ep45-we-talk-jurassic-world.mp3'],
   html5: true,
   buffer: true,
   onloaderror: logErr
