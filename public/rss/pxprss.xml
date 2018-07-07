@@ -23,6 +23,20 @@
 		<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png" />
 		<atom:link href="http://www.pixelpubgaming.com/rss/pxprss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<guid isPermaLink="false">wtnpodcast45</guid>
+			<title>We Talk Jurassic World</title>
+			<pubDate>Sat, 7 Jul 2018 12:00:00 +0000</pubDate>
+			<link>http://www.pixelpubgaming.com/media/wtnpodcast/ep45-we-talk-jurassic-world.mp3</link>
+			<itunes:duration>01:11:59</itunes:duration>
+			<itunes:author>We Talk Nerd</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>This week we cover the latest in gaming, give some game reviews, and we also review Jurassic World and the Incredibles 2!</itunes:summary>
+			<itunes:subtitle>This week we cover the latest in gaming, give some game reviews, and we also review Jurassic World and the Incredibles 2!</itunes:subtitle>
+			<description>This week we cover the latest in gaming, give some game reviews, and we also review Jurassic World and the Incredibles 2!</description>
+			<enclosure url="http://www.pixelpubgaming.com/media/wtnpodcast/ep45-we-talk-jurassic-world.mp3" length="67966500" type="audio/mpeg" />
+			<itunes:image href="http://www.pixelpubgaming.com/images/wtnlogo-bg-w.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">wtnpodcast44</guid>
 			<title>We Talk WoW</title>
 			<pubDate>Fri, 29 Jun 2018 12:00:00 +0000</pubDate>
